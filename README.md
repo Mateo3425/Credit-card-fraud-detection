@@ -16,6 +16,7 @@ Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 
 Power BI
 
+
 Jupyter Notebook
 
 Data Cleaning & Preprocessing
@@ -61,4 +62,7 @@ Combining ML with BI tools to create a complete data science pipeline.
 Translating complex fraud patterns into digestible visuals for stakeholders.
 
 Building impactful dashboards using custom measures (DAX) and interactivity.
+
+![fraud_dashboard_overvie](https://github.com/user-attachments/assets/1d62ac32-cdf6-41f7-9ffc-aa744b8332bc)
+
 
